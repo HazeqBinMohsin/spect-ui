@@ -39,15 +39,17 @@ The system is built for developers who spend their entire day in the editor and 
 
 Most icon packs are variations on a theme. VS Seti Plus is a ground-up redesign. Every icon — all 200+ of them — were designed from scratch in Adobe Illustrator with one goal: **recognition at a glance, even at the smallest scale.**
 
-<br>
+<!-- <br> -->
 
 Every icon is hand-tuned for high-contrast visibility. Whether your sidebar is fully expanded or collapsed to its minimum width, the silhouette and color of each icon remain distinct and identifiable.
 
-<br>
+<!-- <br> -->
 
 The icon palette uses eight functional colors: **Red, Orange, Yellow, Green, Blue, Purple, Pink, and White.** These are not arbitrary — each color is calibrated to be bright enough for high contrast against dark sidebar backgrounds, while remaining soft enough to prevent eye strain during late-night sessions.
 
-## Precision Where It Matters
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/icon-grid.png" alt="VS Seti Plus Icon Grid" width="100%" />
+</p>
 
 Generic icon packs assign the same symbol to related file types and call it "consistent." VS Seti Plus makes deliberate distinctions:
 
@@ -62,10 +64,6 @@ Generic icon packs assign the same symbol to related file types and call it "con
 This principle extends across every supported language. No shortcuts. No generic fallbacks.
 
 <!-- The result: you navigate your file tree by color and shape, not by reading filenames. -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/icon-grid.png" alt="VS Seti Plus Icon Grid" width="100%" />
-</p>
 
 ## Full Language Coverage
 
