@@ -40,7 +40,9 @@ They don't just look good, they work with you.
 
 # Pixel-Perfect File Icons
 
-**200+ unique minimalistic icons** designed for recognition at a glance — even at minimum sidebar width.
+**200+ unique icons** designed for recognition at a glance — even at minimum sidebar width.
+
+These **pixel-perfect** icons are fully **minimalistic**, **recognizable** at a glance, and **unique** for *almost* every file type.
 
 The palette uses eight functional colors — **Red, Orange, Yellow, Green, Blue, Purple, Pink, and White** — each calibrated to pop against dark backgrounds while remaining soft enough to prevent eye strain.
 
@@ -82,18 +84,24 @@ The palette uses eight functional colors — **Red, Orange, Yellow, Green, Blue,
 # Known Issues
 
 - **Terminal cursor:** Some configurations override the cursor color. Set `"terminal.integrated.cursorStyle": "line"` if invisible.
+- **Widgets Without Blur:** Depending on the enviroment, VSCode version and OS, widgets might not blur their backgrounds effectively.
 
 ---
 
 # Contribute
 
-Missing an icon? [Open an issue](https://github.com/HazeqBinMohsin/vs-seti-plus/issues) with the file extension and language.
+Missing an icon? Found a bug? Want to suggest an improvement? [Open an issue](https://github.com/HazeqBinMohsin/vs-seti-plus/issues) on the GitHub repo!
 
 ---
 
 # Release Notes
 
 See [CHANGELOG.md](https://github.com/HazeqBinMohsin/vs-seti-plus/blob/main/CHANGELOG.md) for the full release history.
+
+## [14-MAY-2026] - LATEST:
+- Added seperate icons for Py and Pym (PY Module) files
+- Released *Spect (Dark Professional)* as BETA
+- Released *Spect (Light Classic* as BETA
 
 ---
 
