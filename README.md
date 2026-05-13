@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/header.png" alt="Spect" width="100%" />
+<img src="https://raw.githubusercontent.com/HazeqBinMohsin/spect-ui/main/header.png" alt="Spect" width="100%" />
 
 ---
 
@@ -11,7 +11,7 @@ Every icon is created from scratch in Adobe Illustrator. Every color is calibrat
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/mockup.png" alt="Spect Mockup" width="100%" />
+  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/spect-ui/main/mockup.png" alt="Spect Mockup" width="100%" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ Elegant, Bright and Professional dark color themes designed to keep you in flow.
 They don't just look good, they work with you.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/editor-preview.png" alt="Editor Preview" width="100%" />
+  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/spect-ui/main/editor-preview.png" alt="Editor Preview" width="100%" />
 </p>
 
 - Spect (**Dark Classic**)
@@ -33,7 +33,7 @@ They don't just look good, they work with you.
 > **Light themes** are in development.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/widgets-preview.png" alt="Translucent Widgets" width="600" />
+  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/spect-ui/main/widgets-preview.png" alt="Translucent Widgets" width="600" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ These **pixel-perfect** icons are fully **minimalistic**, **recognizable** at a 
 The palette uses eight functional colors — **Red, Orange, Yellow, Green, Blue, Purple, Pink, and White** — each calibrated to pop against dark backgrounds while remaining soft enough to prevent eye strain.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/icon-grid.png" alt="Spect Icon Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/spect-ui/main/icon-grid.png" alt="Spect Icon Grid" width="100%" />
 </p>
 
 ### Precision Where Others Generalize
@@ -90,13 +90,13 @@ The palette uses eight functional colors — **Red, Orange, Yellow, Green, Blue,
 
 # Contribute
 
-Missing an icon? Found a bug? Want to suggest an improvement? [Open an issue](https://github.com/HazeqBinMohsin/vs-seti-plus/issues) on the GitHub repo!
+Missing an icon? Found a bug? Want to suggest an improvement? [Open an issue](https://github.com/HazeqBinMohsin/spect-ui/issues) on the GitHub repo!
 
 ---
 
 # Release Notes
 
-See [CHANGELOG.md](https://github.com/HazeqBinMohsin/vs-seti-plus/blob/main/CHANGELOG.md) for the full release history.
+See [CHANGELOG.md](https://github.com/HazeqBinMohsin/spect-ui/blob/main/CHANGELOG.md) for the full release history.
 
 ## [14-MAY-2026] - LATEST:
 - Added seperate icons for Py and Pym (PY Module) files
