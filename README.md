@@ -14,7 +14,29 @@ Every icon is created from scratch in Adobe Illustrator. Every color is calibrat
 
 ---
 
-# Pixel-Perfect Icons
+# Color Themes That Work
+
+High-contrast dark themes designed to keep you in flow, with translucent widgets that maintain spatial awareness.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/editor-preview.png" alt="Editor Preview" width="100%" />
+</p>
+
+| Theme | Character |
+|-------|-----------|
+| **Dark Classic** | Deep blacks, warm copper strings, soft gold functions |
+| **Dark Contrast** | Elevated contrast for bright environments and accessibility |
+| **Dark Professional** | *In development* — refined, darker edition for all-day focus |
+
+> **Light themes** are in development.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/widgets-preview.png" alt="Translucent Widgets" width="600" />
+</p>
+
+---
+
+# Pixel-Perfect File Icons
 
 **200+ icons** designed for recognition at a glance — even at minimum sidebar width.
 
@@ -43,28 +65,6 @@ The palette uses eight functional colors — **Red, Orange, Yellow, Green, Blue,
 **Media & Assets:** Images (PNG, JPG, SVG, WebP, AVIF) · Audio (MP3, WAV, FLAC) · Video (MP4, MOV, WebM) · GIF · 3D Models (OBJ, FBX, STL) · Fonts (TTF, OTF, WOFF2) · PDF · Spreadsheets · Presentations — and more.
 
 **Folder Theming:** `src` · `components` · `pages` · `layouts` · `hooks` · `utils` · `lib` · `tests` · `docs` · `config` · `migrations` · `node_modules` · `.vscode` — distinct collapsed and expanded states.
-
----
-
-# Color Themes
-
-High-contrast dark themes designed to keep you in flow, with translucent widgets that maintain spatial awareness.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/editor-preview.png" alt="Editor Preview" width="100%" />
-</p>
-
-| Theme | Character |
-|-------|-----------|
-| **Dark Classic** | Deep blacks, warm copper strings, soft gold functions |
-| **Dark Contrast** | Elevated contrast for bright environments and accessibility |
-| **Dark Professional** | *In development* — refined, darker edition for all-day focus |
-
-**Light themes** are in development.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/widgets-preview.png" alt="Translucent Widgets" width="600" />
-</p>
 
 ---
 
