@@ -8,6 +8,8 @@ Spect is a complete visual system for Visual Studio Code — original icons and 
 
 Every icon is created from scratch in Adobe Illustrator. Every color is calibrated for visibility and comfort during long sessions. The result of over a decade of professional development and design experience.
 
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/mockup.png" alt="Spect Mockup" width="100%" />
 </p>
@@ -16,17 +18,17 @@ Every icon is created from scratch in Adobe Illustrator. Every color is calibrat
 
 # Color Themes That Work
 
-High-contrast dark themes designed to keep you in flow, with translucent widgets that maintain spatial awareness.
+Elegant, Bright and Professional dark color themes designed to keep you in flow.
+
+They don't just look good, they work with you.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/editor-preview.png" alt="Editor Preview" width="100%" />
 </p>
 
-| Theme | Character |
-|-------|-----------|
-| **Dark Classic** | Deep blacks, warm copper strings, soft gold functions |
-| **Dark Contrast** | Elevated contrast for bright environments and accessibility |
-| **Dark Professional** | *In development* — refined, darker edition for all-day focus |
+- Spect (**Dark Classic**)
+- Spect (**Dark Contrast**)
+- Spect (**Dark Professional**) - *Under Development*
 
 > **Light themes** are in development.
 
@@ -38,7 +40,7 @@ High-contrast dark themes designed to keep you in flow, with translucent widgets
 
 # Pixel-Perfect File Icons
 
-**200+ icons** designed for recognition at a glance — even at minimum sidebar width.
+**200+ unique minimalistic icons** designed for recognition at a glance — even at minimum sidebar width.
 
 The palette uses eight functional colors — **Red, Orange, Yellow, Green, Blue, Purple, Pink, and White** — each calibrated to pop against dark backgrounds while remaining soft enough to prevent eye strain.
 
